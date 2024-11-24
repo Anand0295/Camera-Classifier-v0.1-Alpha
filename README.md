@@ -61,7 +61,7 @@ To set up and run the Camera Classifier application, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/camera_classifier.git
+   git clone https://github.com/Anand0295/Camera-Classifier-v0.1-Alpha
    cd camera_classifier
    ```
 
